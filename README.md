@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Kumar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m skilled in various JS framework like (Node and React JS) and python 
 - 📫 How to reach me anujkumar6792@gmail.com
 
 <!---

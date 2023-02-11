@@ -48,8 +48,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Ares-cmd&color=blue">
 
-<!-- [twitter]: https://twitter.com/YoungstersInc17
-[instagram]: https://www.instagram.com/highfunctioning.psychopath/
-[linkedin]: https://www.linkedin.com/in/nikhilmishra1999/
-[portfolio]: https://nikhil.studio/
-[Resume]: https://drive.google.com/file/d/1mE4Ke-2vKlHYktmrEg86S7bfOwq1P_Ww/view -->
+[twitter]: https://twitter.com/YoungstersInc17
+[instagram]: https://www.instagram.com/_anuj__prajapati/
+[linkedin]: https://www.linkedin.com/in/anujkumar-iec/
+[Resume]: https://drive.google.com/file/d/1TFY-ZjGbW9FS7iL-EWQGLI4niuL4V_GA/view?usp=sharing

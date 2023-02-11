@@ -48,7 +48,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Ares-cmd&color=blue">
 
-[twitter]: https://twitter.com/YoungstersInc17
+[twitter]: https://twitter.com/anujkumar301
 [instagram]: https://www.instagram.com/_anuj__prajapati/
 [linkedin]: https://www.linkedin.com/in/anujkumar-iec/
 [Resume]: https://drive.google.com/file/d/1TFY-ZjGbW9FS7iL-EWQGLI4niuL4V_GA/view?usp=sharing

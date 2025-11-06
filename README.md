@@ -179,12 +179,15 @@ Senior Backend Developer with **4+ years** of expertise in designing **scalable,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ares-cmd&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com/?user=Ares-cmd&theme=radical" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ares-cmd&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-cmd&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-cmd&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ares-cmd&theme=radical" alt="GitHub Profile Summary">
 </p>
 
 ## 🏆 Achievements
@@ -219,12 +222,6 @@ const anujKumar = {
 - 📚 Deep diving into Kubernetes and AWS
 - 🎯 Contributing to open-source projects
 - 💡 Exploring Event-Driven Architecture with Kafka
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ares-cmd&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</p>
 
 ## 🎓 Education
 

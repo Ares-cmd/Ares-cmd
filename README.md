@@ -183,10 +183,6 @@ Senior Backend Developer with **4+ years** of expertise in designing **scalable,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-cmd&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ares-cmd&theme=radical" alt="GitHub Profile Summary">
 </p>
 

@@ -180,7 +180,7 @@ Senior Backend Developer with **4+ years** of expertise in designing **scalable,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ares-cmd&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ares-cmd&theme=radical" alt="GitHub Streak" height="165">
+  <img src="https://streak-stats.demolab.com/?user=Ares-cmd&theme=radical" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
